@@ -1,7 +1,7 @@
 
 # day 2
 
---> to check the files in directory to give linex comand -- ls -a
+--> to cecho.>eda.ipynbheck the files in directory to give linex comand -- ls -a
 --> to convert woking responslitary to local reposeitary(staging Area, commit) -- git init
 --> working Direcgory (we work) local reposeitary
 --> git add or git add filename (git add fi.py)
@@ -13,11 +13,11 @@ __> git status is to check whether or not we have added all the files to a stagi
 --> git branch branch_name - you will create a new branch
 --> git checkout branch_name -- to move to a different brach
 --> we will get tehe same code form main brach to sub branch
---> merge to sub and main we use the comand called git merge branchname
+--> merge to sub and main we use the cqomand called git merge branchname
 --> red to stating area
 --> press q to come out
 --> modify - staging - git add.- commite - git log, commite -m filename - git status
---> echo.>eda.ipynb -- to create a new file
+-->  -- to create a new file
 --> open git hub
 --> create repositary
 --> name of the repostiary that name is central repostirary name
