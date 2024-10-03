@@ -36,3 +36,8 @@ __> git status is to check whether or not we have added all the files to a stagi
 --> Handling the outliers. Detect (boxplot) IQR, z-score.
 --> cap(replacing either with upper limit or lower limt) the outliers.  Trim(remove a outlier)
 
+# Day 4
+-->  Encoding the process of conveting cat data into numercial is called encoding
+--> There are two types (onehotencoding - Nominal variables(don'thave natural order)), pandas (pd.get_dummies(), sklearn OneHotEncoder) -- class (upper case in middle)
+--> ordinalEncoding (ordinal varaible), pandas(map), sklearn OrdinalEncoder -- class
+--> 
