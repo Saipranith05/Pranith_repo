@@ -41,3 +41,11 @@ __> git status is to check whether or not we have added all the files to a stagi
 --> There are two types (onehotencoding - Nominal variables(don'thave natural order)), pandas (pd.get_dummies(), sklearn OneHotEncoder) -- class (upper case in middle)
 --> ordinalEncoding (ordinal varaible), pandas(map), sklearn OrdinalEncoder -- class
 --> 
+
+# Day 5
+--> sicikit-learn or sk-learn both are same
+--> specific design to handle all the task to meachine learning.
+--> filling the missing values with the fucntion simpleimputer
+--> Feature scaling use to give equal important to all data.  Change the range of the all and make equal.--- for example 
+salary and exprience
+--> standardization(mean= 0, standard devation = 1),  Normalization (in normalization)
